@@ -164,8 +164,8 @@ python src/database/load_data.py
 ## Autor
 
 Filipe Madeira
-GitHub: https://github.com/FilipeMadeira13
-LinkedIn: https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a
+- [GitHub](https://github.com/FilipeMadeira13)
+- [LinkedIn](https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a)
 
 ---
 
