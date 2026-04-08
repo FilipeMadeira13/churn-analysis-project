@@ -132,19 +132,33 @@ git clone https://github.com/FilipeMadeira13/churn-analysis-project.git
 cd churn-analysis-project
 ```
 
-2. Instale as dependências:
+2. Crie e ative um ambiente virtual (recomendado):
 
 ```bash
+python -m venv .venv
+source .venv/bin/activate
+```
+
+3. Instale as dependências de runtime:
+
+```bash
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-3. Execute o pipeline de dados:
+4. Para usar Jupyter e abrir os notebooks, instale também as dependências de desenvolvimento:
+
+```bash
+pip install -r dev-requirements.txt
+```
+
+5. Execute o pipeline de dados:
 
 ```bash
 python src/database/load_data.py
 ```
 
-4. Abra os notebooks na ordem sugerida:
+6. Abra os notebooks na ordem sugerida:
 
 * `01_data_understanding.ipynb`
 * `02_data_cleaning.ipynb`
