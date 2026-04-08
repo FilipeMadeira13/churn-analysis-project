@@ -103,23 +103,30 @@ Os dados foram estruturados em uma tabela relacional (`customers`), preservando 
 
 ---
 
-## Principais Insights
+## Impacto Estimado
 
-* Contratos mensais apresentam maior churn, indicando baixa fidelização
-* Clientes novos são mais propensos a cancelar, sugerindo falhas no onboarding
-* Ausência de suporte técnico aumenta significativamente o churn
-* Pagamentos automáticos estão associados a maior retenção
+Considerando:
+
+- Base de 7.043 clientes
+- Ticket médio estimado de $64,76/mês
+
+A redução de churn em apenas 5% pode representar:
+
+→ Retenção de ~350 clientes  
+→ Aproximadamente $22.000+ em receita mensal preservada  
+
+Isso demonstra que pequenas melhorias na retenção podem gerar impacto financeiro significativo.
 
 ---
 
-## Recomendações de Negócio
+## Prioridades Estratégicas
 
-Com base nos dados, algumas ações estratégicas incluem:
+Com base na análise, as ações com maior potencial de impacto são:
 
-* Incentivar contratos de longo prazo
-* Melhorar o processo de onboarding de novos clientes
-* Expandir e promover suporte técnico
-* Incentivar métodos de pagamento automáticos
+1. Reduzir churn em contratos mensais
+2. Melhorar onboarding de novos clientes
+3. Atuar sobre clientes de fibra óptica
+4. Incentivar pagamento automático
 
 ---
 
@@ -185,7 +192,7 @@ Filipe Madeira
 
 ## Considerações Finais
 
-Este projeto foi desenvolvido com foco em simular um cenário real de análise de dados, combinando:
+Este projeto simula um cenário real de negócio, combinando:
 
 * Pensamento analítico
 * SQL aplicado
