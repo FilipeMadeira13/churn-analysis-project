@@ -30,7 +30,4 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
-
-# Dados sensíveis (se aplicável)
-data/raw/
 data/processed/

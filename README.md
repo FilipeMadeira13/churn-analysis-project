@@ -186,7 +186,13 @@ python src/database/load_data.py
 
 Filipe Madeira
 - [GitHub](https://github.com/FilipeMadeira13)
-- [LinkedIn](https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a)
+- [LinkedIn](https://www.linkedin.com/in/filipe-madeira-16211922a)
+
+---
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
 
