@@ -9,7 +9,7 @@ Este projeto tem como objetivo analisar e compreender os fatores que levam clien
 
 Este projeto utiliza o dataset público **Telco Customer Churn**, amplamente utilizado para análise de cancelamento de clientes em empresas de telecomunicações.
 
-- Fonte: IBM Sample Data
+- Fonte: [IBM Sample Data](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - Total de registros: 7.043 clientes
 - Variáveis: 21 colunas
 
