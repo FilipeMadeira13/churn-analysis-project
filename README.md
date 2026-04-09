@@ -5,6 +5,26 @@
 Este projeto tem como objetivo analisar e compreender os fatores que levam clientes de uma empresa de telecomunicações a cancelar seus serviços (churn), utilizando SQL e Python para gerar insights acionáveis.
 
 ---
+## Dataset
+
+Este projeto utiliza o dataset público **Telco Customer Churn**, amplamente utilizado para análise de cancelamento de clientes em empresas de telecomunicações.
+
+- Fonte: IBM Sample Data
+- Total de registros: 7.043 clientes
+- Variáveis: 21 colunas
+
+Principais atributos:
+
+- `customerID`: Identificador único do cliente  
+- `tenure`: Tempo de relacionamento (meses)  
+- `Contract`: Tipo de contrato (mensal, anual, etc.)  
+- `MonthlyCharges`: Valor mensal pago  
+- `TotalCharges`: Valor total pago  
+- `Churn`: Indica se o cliente cancelou o serviço  
+
+O dataset foi disponibilizado em formato CSV e armazenado na pasta `data/raw/` para ingestão no pipeline.
+
+---
 
 ## Problema de Negócio
 
