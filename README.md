@@ -113,6 +113,28 @@ Os dados foram estruturados em uma tabela relacional (`customers`), preservando 
 
 ---
 
+## Output Final
+
+Ao final do pipeline, os dados são estruturados e disponibilizados no banco de dados SQLite, permitindo consultas analíticas eficientes.
+
+O principal output do projeto é:
+
+- Tabela analítica `customers`, contendo dados tratados e prontos para análise de churn
+
+Além disso, o projeto entrega:
+
+- Consultas SQL que identificam padrões de churn (ex: por contrato, tenure, serviços)
+- Insights acionáveis documentados nos notebooks de EDA
+- Base preparada para evolução futura (ex: modelos preditivos e dashboards)
+
+Exemplos de perguntas que podem ser respondidas diretamente com o output:
+
+- Qual tipo de contrato possui maior taxa de churn?
+- Clientes com menor tempo de relacionamento cancelam mais?
+- Quais serviços estão associados a maior retenção?
+
+---
+
 ## Principais Análises
 
 * Churn por tipo de contrato
